@@ -54,3 +54,17 @@ body{
      font-size:12xp;
      color: var(--cinza-segundario);
 }
+.container__titulo{
+    font-size: 28px;
+    font-weight: 700;
+}
+.container__imagem{
+    margin: 0 6em;
+
+}
+.container__caixa{
+    margin: 0 6em;
+}
+.container__imagem{
+    width: 80%;
+}
